@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/BitMagic.dir/src/bitmagic.c.o CMakeFiles/BitMagic.dir/examples/example1.c.o -o BitMagic 
