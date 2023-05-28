@@ -1,0 +1,3 @@
+/home/ramad/personalcodes/myLibs/BitMagic/build/CMakeFiles/BitMagic.dir
+/home/ramad/personalcodes/myLibs/BitMagic/build/CMakeFiles/edit_cache.dir
+/home/ramad/personalcodes/myLibs/BitMagic/build/CMakeFiles/rebuild_cache.dir
